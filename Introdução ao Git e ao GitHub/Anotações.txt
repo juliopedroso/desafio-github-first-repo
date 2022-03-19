@@ -1,2 +1,21 @@
 Link para download do Git: https://git-scm.com/downloads
 O git Bash é um temrinal extendido para otimizar o uso do Git.
+
+
+Comandos aplicados durante a criação e edição do repositorio
+
+Clonar repositorio para maquina local
+git clone https://github.com/juliopedroso/desafio-github-first-repo.git
+
+Exibir alterações na pasta do projeto
+git status
+
+Comando para adicionar todos os arquivos ao git
+git add .
+
+Comando para realizar o commit
+git commit -m "mensagem com detalhes sobre o que foi feito"
+
+Comando para enviar as alterações para o servidor do git
+git push origin main
+
